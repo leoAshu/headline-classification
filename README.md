@@ -1,5 +1,5 @@
 <p align="center">
-    <image src="images/cover.png">
+    <image src="images/cover.jpg">
 </p>
 
 # Headline Classification
