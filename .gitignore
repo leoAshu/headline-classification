@@ -9,3 +9,6 @@ clickbait/
 
 # ignore __pycache__ in scripts folder
 scripts/__pycache__
+
+# ignore the docs folder
+docs/
